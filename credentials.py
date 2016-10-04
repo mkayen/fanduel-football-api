@@ -1,0 +1,1 @@
+databaseUri = 'mongodb://mkayen:maxmax123@ds147975.mlab.com:47975/numberfire-football'
